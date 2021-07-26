@@ -1,4 +1,4 @@
-visibility: public2
+visibility: public
 group:
-  key1: dev12
-  key2: dev22
+  key1: dev1
+  key2: dev2
