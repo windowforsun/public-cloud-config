@@ -1,0 +1,4 @@
+visibility: public
+group:
+  key1: dev1
+  key2: dev2
