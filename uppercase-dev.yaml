@@ -1,4 +1,4 @@
-visibility: PUBILIC
+visibility: PUBLIC
 group:
   key1: DEV1
   key2: DEV2
