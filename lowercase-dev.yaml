@@ -1,4 +1,4 @@
-visibility: public-bus
+visibility: public
 group:
-  key1: dev1-bus
-  key2: dev2-bus
+  key1: dev1
+  key2: dev2
